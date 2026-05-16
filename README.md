@@ -2,9 +2,9 @@
 OS booting from 16-bit (Real Mode) bootloader, and transferring control to 32-bit (Protected Mode) kernel, then 32-bit kernel transferring control to 64-bit (Long Mode) kernel. Written by 13 y.o, in 35 minutes.
 
 # Way:
-- Low Start: bootloader (16-bits, Real Mode)
-- Medium Start: kernel32 (32-bits, Protected Mode)
-- High Start: kernel64 (64-bits, Long Mode)
+- **Low** Start: **bootloader** (16-bits, **Real Mode**)
+- **Medium** Start: **kernel32** (32-bits, **Protected Mode**)
+- **High Start**: **kernel64** (64-bits, **Long Mode**)
 
 # Written by 13 y.o, in 35 minutes.
 
